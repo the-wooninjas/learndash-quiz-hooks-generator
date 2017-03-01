@@ -25,7 +25,7 @@ add_filter("learndash_quiz_questions", function( $quiz_data ) {});
 ```
 `$quiz_data holds quiz questions to be displayed in your LearnDash Quiz you can alter them according to your specific development needs through this hook.`
 
-# #Installation
+# Installation
 
 Before installation please make sure you have latest LearnDash installed.
 
